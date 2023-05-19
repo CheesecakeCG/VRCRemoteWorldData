@@ -1,0 +1,74 @@
+[
+    {
+        "folderName": "hare_ware Cyber-Squrriel",
+        "avatars": [
+            {
+                "name": "SQRRL Polar",
+                "id": "avtr_a673b043-3f24-4d34-b098-f07d994d353a"
+            },
+            {
+                "name": "SQRRL Redwood",
+                "id": "avtr_d914ab5d-e0da-4d5a-8cd4-d93f6426c717"
+            },
+            {
+                "name": "SQRRL Petunia",
+                "id": "avtr_7833a1fe-5af4-4aef-ad31-3e4fd7dee359"
+            },
+            {
+                "name": "SQRRL Hazard",
+                "id": "avtr_1c8dee9f-6c84-4d54-8a51-e39a35370e90"
+            },
+            {
+                "name": "SQRRL Leaf",
+                "id": "avtr_c7caa2c1-3ad7-40c9-8df9-20e17d3e1ef9"
+            },
+            {
+                "name": "SQRRL Midnight",
+                "id": "avtr_2e13fd94-634d-48a5-b5ea-1cd1035033fe"
+            },
+            {
+                "name": "SQRRL Oxide",
+                "id": "avtr_f700f0bf-bc6e-4807-9425-70e43e610c52"
+            },
+            {
+                "name": "SQRRL Oni",
+                "id": "avtr_98af4651-1357-49de-9f15-fcc4ab23f048"
+            },
+            {
+                "name": "SQRRL Noon",
+                "id": "avtr_2e3ed95d-f51a-473d-a38d-a157da5edcd4"
+            }
+        ]
+    },
+    {
+        "folderName": "hare_ware Cybersaurus X",
+        "avatars": [
+            {
+                "name": "Cybersaurus X",
+                "id": "avtr_76dc9802-d420-4a2e-93a1-cdcc4d035060",
+                "android": true
+            }
+        ]
+    },
+    {
+        "folderName": "hare_ware Experimental Avatars",
+        "avatars": [
+            {
+                "name": "Dusk from Feral Skies",
+                "id": "avtr_bfb13eeb-bc66-4b1c-8251-edde96918a5b"
+            },
+            {
+                "name": "SQRRL High Noon",
+                "id": "avtr_45d04488-1e4d-4684-9b9d-af96d05b4f4a"
+            },
+            {
+                "name": "ok but bear with me",
+                "id": "avtr_a853e700-1b01-4e14-8723-cb4bd7da00a1"
+            },
+            {
+                "name": "Otter",
+                "id": "avtr_2ab25212-9606-4651-90a3-1fd7ea5b93e8"
+            }
+        ]
+    }
+]
