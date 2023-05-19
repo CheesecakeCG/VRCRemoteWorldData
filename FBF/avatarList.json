@@ -48,7 +48,8 @@
                 "name": "Cybersaurus X",
                 "id": "avtr_76dc9802-d420-4a2e-93a1-cdcc4d035060",
                 "android": true,
-                "img": 1
+                "img": 1,
+                "desc":"Cyberpunk T-Rex, made for the Avatars for Everyone Creator Jam. Color Customization, Body Type Tweaks, GoGo Loco, AudioLink, OREL's PBR shader, and more."
             }
         ]
     },
