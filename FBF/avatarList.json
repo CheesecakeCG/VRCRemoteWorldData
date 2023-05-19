@@ -4,7 +4,8 @@
         "avatars": [
             {
                 "name": "SQRRL Polar",
-                "id": "avtr_a673b043-3f24-4d34-b098-f07d994d353a"
+                "id": "avtr_a673b043-3f24-4d34-b098-f07d994d353a",
+                "img": 0
             },
             {
                 "name": "SQRRL Redwood",
@@ -46,7 +47,8 @@
             {
                 "name": "Cybersaurus X",
                 "id": "avtr_76dc9802-d420-4a2e-93a1-cdcc4d035060",
-                "android": true
+                "android": true,
+                "img": 1
             }
         ]
     },
