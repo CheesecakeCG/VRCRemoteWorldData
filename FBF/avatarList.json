@@ -110,7 +110,7 @@
             "name": "hw_bun",
             "id": "avtr_961b0fbb-0242-40fb-94f3-b95279b01ce4",
             "atlas": 1,
-            "img": 2,
+            "img": 1,
             "desc": "WORK IN PROGRESS!"
         }
     ]
@@ -122,7 +122,7 @@
             "name": "hw_dawg",
             "id": "avtr_a32ad454-1dcb-41b5-b9e5-2edf598d010e",
             "atlas": 1,
-            "img": 5,
+            "img": 4,
             "desc": "WORK IN PROGRESS!"
         }
     ]
@@ -134,14 +134,14 @@
             "name": "hw_rat",
             "id": "avtr_8e4ed5fb-7c27-4a96-b62e-0851d2148bdd",
             "atlas": 1,
-            "img": 3,
+            "img": 2,
             "desc": "WORK IN PROGRESS! this is a potato."
         },
                     {
             "name": "hw_rat.BotBlue",
             "id": "avtr_16c7701e-6c01-4cf9-9ca5-d29b45b9dba8",
             "atlas": 1,
-            "img": 4,
+            "img": 3,
             "desc": "WORK IN PROGRESS! Crazy? I was crazy once․ They put me in a room․ A rubber room․ A rubber room with rats․ They put me in a rubber room with rubber rats․ Rubber rats? I hate rubber rats․ They make me crazy․ Crazy? I was crazy once․ They put me in a room․"
         }
     ]
