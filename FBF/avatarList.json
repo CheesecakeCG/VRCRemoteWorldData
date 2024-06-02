@@ -11,7 +11,7 @@
             {
                 "name": "hw_sqrrl Redwood",
                 "id": "avtr_d914ab5d-e0da-4d5a-8cd4-d93f6426c717",
-                "atlas": 1,
+                "atlas": 0,
                 "img": 2
             },
             {
@@ -29,7 +29,7 @@
             {
                 "name": "hw_sqrrl Leaf",
                 "id": "avtr_c7caa2c1-3ad7-40c9-8df9-20e17d3e1ef9",
-                "atlas": 1,
+                "atlas": 0,
                 "img": 5
             },
             {
@@ -41,7 +41,7 @@
             {
                 "name": "hw_sqrrl Oxide",
                 "id": "avtr_f700f0bf-bc6e-4807-9425-70e43e610c52",
-                "atlas": 1,
+                "atlas": 0,
                 "img": 7
             },
             {
@@ -54,7 +54,7 @@
                 "name": "hw_sqrrl Noon",
                 "id": "avtr_2e3ed95d-f51a-473d-a38d-a157da5edcd4",
                 "atlas": 0,
-                "img": 10
+                "img": 9
             }
         ]
     },
@@ -65,7 +65,7 @@
                 "name": "Cybersaurus X",
                 "id": "avtr_76dc9802-d420-4a2e-93a1-cdcc4d035060",
                 "android": true,
-                "atlas": 1,
+                "atlas": 0,
                 "img": 1,
                 "desc": "Cyberpunk T-Rex, made for the Avatars for Everyone Creator Jam. Color Customization, Body Type Tweaks, GoGo Loco, AudioLink, OREL's PBR shader, and more."
             }
@@ -78,7 +78,7 @@
                 "name": "hw_derr",
                 "id": "avtr_7fd118a8-9291-45ab-915a-3279b2c105f4",
                 "atlas": 0,
-                "img": 17,
+                "img": 10,
                 "desc": "Design colab with M0X."
             }
         ]
