@@ -1,137 +1,184 @@
 [
+{
+    "folderName": "hare_ware Cyber-Squrriels",
+    "avatars": [
+        {
+            "name": "hw_sqrrl Polar",
+            "id": "avtr_a673b043-3f24-4d34-b098-f07d994d353a",
+            "atlas": 0,
+            "img": 15
+        },
+        {
+            "name": "hw_sqrrl Redwood",
+            "id": "avtr_d914ab5d-e0da-4d5a-8cd4-d93f6426c717",
+            "atlas": 0,
+            "img": 2
+        },
+        {
+            "name": "hw_sqrrl Petunia",
+            "id": "avtr_7833a1fe-5af4-4aef-ad31-3e4fd7dee359",
+            "atlas": 0,
+            "img": 3
+        },
+        {
+            "name": "hw_sqrrl Hazard",
+            "id": "avtr_1c8dee9f-6c84-4d54-8a51-e39a35370e90",
+            "atlas": 0,
+            "img": 4
+        },
+        {
+            "name": "hw_sqrrl Leaf",
+            "id": "avtr_c7caa2c1-3ad7-40c9-8df9-20e17d3e1ef9",
+            "atlas": 0,
+            "img": 5
+        },
+        {
+            "name": "hw_sqrrl Midnight",
+            "id": "avtr_2e13fd94-634d-48a5-b5ea-1cd1035033fe",
+            "atlas": 0,
+            "img": 6
+        },
+        {
+            "name": "hw_sqrrl Oxide",
+            "id": "avtr_f700f0bf-bc6e-4807-9425-70e43e610c52",
+            "atlas": 0,
+            "img": 7
+        },
+        {
+            "name": "hw_sqrrl Oni",
+            "id": "avtr_98af4651-1357-49de-9f15-fcc4ab23f048",
+            "atlas": 0,
+            "img": 8,
+            "desc":"Get in the squrriel Shinji? I haven't watched Eva yet, I'm sorry."
+        },
+        {
+            "name": "hw_sqrrl Noon",
+            "id": "avtr_2e3ed95d-f51a-473d-a38d-a157da5edcd4",
+            "atlas": 0,
+            "img": 9
+        }
+    ]
+},
+{
+    "folderName": "hare_ware Cybersaurus X",
+    "avatars": [
+        {
+            "name": "Cybersaurus X",
+            "id": "avtr_76dc9802-d420-4a2e-93a1-cdcc4d035060",
+            "android": true,
+            "atlas": 0,
+            "img": 1,
+            "desc": "Cyberpunk T-Rex, made for the Avatars for Everyone Creator Jam. Color Customization, Body Type Tweaks, GoGo Loco, AudioLink, OREL's PBR shader, and more."
+        }
+    ]
+},
+{
+    "folderName": "hare_ware Deers (BETA)",
+    "avatars": [
+        {
+            "name": "hw_derr",
+            "id": "avtr_7fd118a8-9291-45ab-915a-3279b2c105f4",
+            "atlas": 0,
+            "img": 10,
+            "desc": "Design colab with M0X."
+        }
+    ]
+},
+{
+    "folderName": "hare_ware Otters (ALPHA)",
+    "avatars": [
+        {
+            "name": "hw_ott",
+            "id": "avtr_2ab25212-9606-4651-90a3-1fd7ea5b93e8",
+            "atlas": 0,
+            "img": 14,
+            "desc": "WORK IN PROGRESS!"
+        },
+        {
+            "name": "hw_ott.Arctic",
+            "id": "avtr_de186bff-8778-4903-9258-98e92812ca68",
+            "atlas": 0,
+            "img": 15,
+            "desc": "WORK IN PROGRESS!"
+        }
+    ]
+},
+{
+    "folderName": "hare_ware Rabbits (ALPHA)",
+    "avatars": [
+        {
+            "name": "hw_bun",
+            "id": "avtr_961b0fbb-0242-40fb-94f3-b95279b01ce4",
+            "atlas": 1,
+            "img": 2,
+            "desc": "WORK IN PROGRESS!"
+        }
+    ]
+},
     {
-        "folderName": "hare_ware Cyber-Squrriels",
-        "avatars": [
-            {
-                "name": "hw_sqrrl Polar",
-                "id": "avtr_a673b043-3f24-4d34-b098-f07d994d353a",
-                "atlas": 0,
-                "img": 0
-            },
-            {
-                "name": "hw_sqrrl Redwood",
-                "id": "avtr_d914ab5d-e0da-4d5a-8cd4-d93f6426c717",
-                "atlas": 0,
-                "img": 2
-            },
-            {
-                "name": "hw_sqrrl Petunia",
-                "id": "avtr_7833a1fe-5af4-4aef-ad31-3e4fd7dee359",
-                "atlas": 0,
-                "img": 3
-            },
-            {
-                "name": "hw_sqrrl Hazard",
-                "id": "avtr_1c8dee9f-6c84-4d54-8a51-e39a35370e90",
-                "atlas": 0,
-                "img": 4
-            },
-            {
-                "name": "hw_sqrrl Leaf",
-                "id": "avtr_c7caa2c1-3ad7-40c9-8df9-20e17d3e1ef9",
-                "atlas": 0,
-                "img": 5
-            },
-            {
-                "name": "hw_sqrrl Midnight",
-                "id": "avtr_2e13fd94-634d-48a5-b5ea-1cd1035033fe",
-                "atlas": 0,
-                "img": 6
-            },
-            {
-                "name": "hw_sqrrl Oxide",
-                "id": "avtr_f700f0bf-bc6e-4807-9425-70e43e610c52",
-                "atlas": 0,
-                "img": 7
-            },
-            {
-                "name": "hw_sqrrl Oni",
-                "id": "avtr_98af4651-1357-49de-9f15-fcc4ab23f048",
-                "atlas": 0,
-                "img": 8
-            },
-            {
-                "name": "hw_sqrrl Noon",
-                "id": "avtr_2e3ed95d-f51a-473d-a38d-a157da5edcd4",
-                "atlas": 0,
-                "img": 9
-            }
-        ]
-    },
-    {
-        "folderName": "hare_ware Cybersaurus X",
-        "avatars": [
-            {
-                "name": "Cybersaurus X",
-                "id": "avtr_76dc9802-d420-4a2e-93a1-cdcc4d035060",
-                "android": true,
-                "atlas": 0,
-                "img": 1,
-                "desc": "Cyberpunk T-Rex, made for the Avatars for Everyone Creator Jam. Color Customization, Body Type Tweaks, GoGo Loco, AudioLink, OREL's PBR shader, and more."
-            }
-        ]
-    },
-    {
-        "folderName": "hare_ware Deers (BETA)",
-        "avatars": [
-            {
-                "name": "hw_derr",
-                "id": "avtr_7fd118a8-9291-45ab-915a-3279b2c105f4",
-                "atlas": 0,
-                "img": 10,
-                "desc": "Design colab with M0X."
-            }
-        ]
-    },
-    {
-        "folderName": "hare_ware Otters (ALPHA)",
-        "avatars": [
-            {
-                "name": "hw_ott",
-                "id": "avtr_2ab25212-9606-4651-90a3-1fd7ea5b93e8",
-                "atlas": 0,
-                "img": 14
-            },
-            {
-                "name": "hw_ott.Arctic",
-                "id": "avtr_de186bff-8778-4903-9258-98e92812ca68",
-                "atlas": 0,
-                "img": 15
-            }
-        ]
-    },
-    {
-        "folderName": "hare_ware Foxes (ALPHA)",
-        "avatars": [
-            {
-                "name": "hw_fozz",
-                "id": "avtr_2e0535ed-e19d-4fb7-a83c-7d7253debe37",
-                "atlas": 0,
-                "img": 16
-            }
-        ]
-    },
-    {
-        "folderName": "hare_ware Experimental Avatars",
-        "avatars": [
-            {
-                "name": "Dusk from Feral Skies",
-                "id": "avtr_bfb13eeb-bc66-4b1c-8251-edde96918a5b",
-                "atlas": 0,
-                "img": 11
-            },
-            {
-                "name": "hw_sqrrl High Noon",
-                "id": "avtr_45d04488-1e4d-4684-9b9d-af96d05b4f4a",
-                "atlas": 0,
-                "img": 12
-            },
-            {
-                "name": "ok but bear with me",
-                "id": "avtr_a853e700-1b01-4e14-8723-cb4bd7da00a1",
-                "atlas": 0,
-                "img": 13
-            }
-        ]
-    }
+    "folderName": "hare_ware Dogs (ALPHA)",
+    "avatars": [
+        {
+            "name": "hw_dawg",
+            "id": "avtr_a32ad454-1dcb-41b5-b9e5-2edf598d010e",
+            "atlas": 1,
+            "img": 5,
+            "desc": "WORK IN PROGRESS!"
+        }
+    ]
+},
+{
+    "folderName": "hare_ware Rats (ALPHA)",
+    "avatars": [
+        {
+            "name": "hw_rat",
+            "id": "avtr_8e4ed5fb-7c27-4a96-b62e-0851d2148bdd",
+            "atlas": 1,
+            "img": 3,
+            "desc": "WORK IN PROGRESS! this is a potato."
+        },
+                    {
+            "name": "hw_rat.BotBlue",
+            "id": "avtr_16c7701e-6c01-4cf9-9ca5-d29b45b9dba8",
+            "atlas": 1,
+            "img": 4,
+            "desc": "WORK IN PROGRESS! Crazy? I was crazy once․ They put me in a room․ A rubber room․ A rubber room with rats․ They put me in a rubber room with rubber rats․ Rubber rats? I hate rubber rats․ They make me crazy․ Crazy? I was crazy once․ They put me in a room․"
+        }
+    ]
+},
+
+{
+    "folderName": "hare_ware Foxes (ALPHA)",
+    "avatars": [
+        {
+            "name": "hw_fozz",
+            "id": "avtr_2e0535ed-e19d-4fb7-a83c-7d7253debe37",
+            "atlas": 1,
+            "img": 0
+        }
+    ]
+},
+{
+    "folderName": "hare_ware Experimental Avatars",
+    "avatars": [
+        {
+            "name": "Dusk from Feral Skies",
+            "id": "avtr_bfb13eeb-bc66-4b1c-8251-edde96918a5b",
+            "atlas": 0,
+            "img": 11
+        },
+        {
+            "name": "hw_sqrrl High Noon",
+            "id": "avtr_45d04488-1e4d-4684-9b9d-af96d05b4f4a",
+            "atlas": 0,
+            "img": 12
+        },
+        {
+            "name": "ok but bear with me",
+            "id": "avtr_a853e700-1b01-4e14-8723-cb4bd7da00a1",
+            "atlas": 0,
+            "img": 13
+        }
+    ]
+}
 ]
